@@ -1,0 +1,226 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>  <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  
+    
+  <title>Hydro Manual | GO-SHIP</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <link rel="stylesheet" href="/media/css/normalize.css">
+    <link rel="stylesheet" href="/media/css/screen.css">  </head>
+
+<body id="HydroMan"><table id="container">
+  <tr class="header"> 
+    <td colspan="2">WWW.GO-SHIP.ORG</td>
+    <td class="right" colspan="4">
+      </td>
+  </tr>
+  <tr id="banner"> 
+    <td id="logo" colspan="2"><a href="/"><img src="/media/images/GO-SHIPlogo.gif" width="110" height="107"></a></td>
+    <td id="bannerimg" colspan="4"><img src="/media/images/GSbanner.gif" width="730" height="107"></td>
+  </tr>
+  <tr id="nav"> 
+    <td id="navcontainer"> 
+      <table cellspacing="3" cellpadding="3">
+        <tr class="navlink">
+                  <td colspan="2"><a href="/index.html">HOME</a></td>
+        </tr>
+        <tr class="navlink">
+          <td colspan="2"><a href="/About.html">ABOUT GO-SHIP</a></td>
+        </tr>
+        <tr class="navlink">
+ <tr class="navlink">
+          <td colspan="2"><a href="/committee.html">SCIENCE COMMITTEE</a></td>
+        </tr>
+        <tr class="navlink">
+
+
+          <td colspan="2"><a href="/RefSecs/goship_ref_secs.html
+">REFERENCE SECTIONS</a></td>
+        </tr>
+<tr class="navlink">
+          <td colspan="2"><a href="/DatReq.html
+">DATA REQUIREMENTS</a></td>
+        </tr>
+
+        <tr class="navlink">
+         <td colspan="2"><a href="/CruisePlans.html">CRUISE PLANS</a></td>
+        </tr>
+
+ <tr class="navlink">
+          <td colspan="2"><a href="/join_cruise.html">JOIN A CRUISE</a></td>
+        </tr>
+        <tr class="navlink">
+
+        <tr class="navlink">
+          <td colspan="2"><a href="/DataDirect.html">DATA DIRECTORY</a></td>
+        </tr>
+        <tr class="navlink">
+          <td colspan="2"><a href="/HydroMan.html">HYDRO MANUAL</a></td>
+        </tr>
+        <tr class="navlink">
+          <td colspan="2"><a href="/Documents.html">DOCUMENTS</a></td>
+        </tr>
+        <tr class="navlink">
+          <td colspan="2"><a href="/Bib.html">BIBLIOGRAPHY</a></td>
+        </tr>
+        <tr class="navlink">
+          <td colspan="2"><a href="/Join.html">JOIN THE EMAIL LIST</a></td>
+        </tr>
+        <tr class="navlink">
+          <td colspan="2"> <a href="/Contacts.html">CONTACT</a> </td>        </tr>
+
+        <tr>
+          <td colspan="2" height="25px"></td>
+        </tr>
+
+        <tr>
+                </tr>
+      </table>
+    </td>
+    <td width="4" valign="top">&nbsp;</td>
+    <td colspan="4" valign="top" class="content"> 
+      <section><img src="/media/images/ManualWebHead2.gif" width="687" height="400">
+
+<div class="separator"></div>
+
+<div class="article title">
+  <span class="title">COVER PAGE, ACKNOWLEDGEMENTS AND CITATION INFORMATION</span>
+  <span class="link">[<a href="/Manual/CoverPage.pdf" target="_blank">pdf 200KB</a>]</span>
+</div>
+<p class="title">CONTENTS</p>
+
+<h1>Introduction</h1>
+<div class="article">
+  <span class="title">Preface to the First Edition<span>
+  <span class="link">[<a href="/Manual/PREFACE.pdf" target="_blank">pdf 86KB</a>]</span>
+</div>
+<p class="authors">B.M. Sloyan and C.L. Sabine</p>
+<div class="article">
+  <span class="title">Introduction to the Collection of Expert Reports and Guidelines (table of measurement standards)</span>
+  <span class="link">[<a href="/Manual/IntroCollection.pdf" target="_blank">pdf 164KB</a>]</span>
+</div>
+<p class="authors">E.M. Hood</p>
+
+<h1>Data Acquisition Overview</h1>
+<div class="article">
+  <span class="title">Reference  Quality Water Sample Data: Notes on Data Acquisition</span>
+  <span class="link">[<a href="/Manual/Swift_DataEval.pdf" target="_blank">pdf 2.2MB</a>]</span>
+</div>
+<p class="authors">J. H.  Swift</p>
+
+<h1>Methods for Water Sampling and Analysis</h1>
+<div class="article">
+  <span class="title">Method  for Salinity (Conductivity Ratio) Measurement</span>
+  <span class="link">[<a href="/Manual/Kawano_Salinity.pdf" target="_blank">pdf 300KB</a>]</span>
+</div>
+<p class="authors">T. Kawano</p>
+<div class="article">
+  <span class="title">Recommendations for the Determination of Nutrients in
+    Seawater to High Levels of Precision and Inter-Comparability using
+    Continuous Flow Analysers</span>
+  <span class="link">[<a href="/Manual/Hydes_et_al_Nutrients.pdf" target="_blank">pdf 900 KB</a>]</span>
+</div>
+<p class="authors">
+  D.J. Hydes, M. Aoyama, A. Aminot, K. Bakker, S. Becker, S. Coverly, A. Daniel,<br />
+  A.G. Dickson, O. Grosso, R. Kerouel, J. van Ooijen, K. Sato, T. Tanhua, <br />
+  E.M.S. Woodward, and J. Z. Zhang
+</p>
+<div class="article">
+  <span class="title">Determination of Dissolved Oxygen in Seawater by Winkler
+    Titration Using the Amperometric <br> Technique</span>
+  <span class="link">[<a href="/Manual/Langdon_Amperometric_oxygen.pdf" target="_blank">pdf 260KB</a>]</span>
+</div>
+<p class="authors">C. Langdon</p>
+<div class="article">
+  <span class="title">Guide  to Best Practices for Ocean CO2 Measurement (2008)</span>
+  <span class="link">[<a href="http://cdiac.ornl.gov/oceans/Handbook_2007.html" target="_blank">Web</a>]</span>
+</div>
+<p class="authors">A. G. Dickson,  C.L. Sabine, and J. R. Christian</p>
+<div class="article">
+  <span class="title">Sampling and Measurement of Chlorofluorocarbon and Sulfur Hexafluoride in Seawater</span>
+  <span class="link">[<a href="/Manual/Bullister_Tanhua_CFCSF6.pdf" target="_blank">pdf 140KB</a>]</span>
+</div>
+<p class="authors">J.L. Bullister and T. Tanhua</p>
+<div class="article">
+  <span class="title">Collection and Measurement of Carbon Isotopes in Seawater  DIC</span>
+  <span class="link">[<a href="/Manual/McNichol_C1314.pdf" target="_blank">pdf 500KB</a>]</span>
+</div>
+<p class="authors">A.P. McNichol, P.D. Quay, A.R. Gagnon, and J.R. Burton</p>
+<div class="article">
+  <span class="title">Sampling  and Measuring Helium Isotopes and Tritium in Seawater</span>
+  <span class="link">[<a href="/Manual/Jenkins_TritHe3.pdf" target="_blank">pdf 290KB</a>]</span>
+</div>
+<p class="authors">W. J. Jenkins, D. E.  Lott, K. Cahill, J. Curtice, P. Landry</p>
+
+<h1>CTD Methods</h1>
+<div class="article">
+  <span class="title">Notes on CTD/O2 Data Acquisition and Processing Using Seabird Hardware and Software<br />
+  (as available)</span>
+  <span class="link">[<a href="/Manual/McTaggart_et_al_CTD.pdf" target="_blank">pdf 280KB</a>]</span>
+</div>
+<p class="authors">
+  K. E.  McTaggart, G. C. Johnson, M. C. Johnson, F. M. Delahoyde, <br />
+  and J. H. Swift
+</p>
+<div class="article">
+  <span class="title">CTD Oxygen  Sensor Calibration Procedures</span>
+  <span class="link">[<a href="/Manual/Uchida_CTDO2proc.pdf" target="_blank">pdf 590KB</a>]</span>
+</div>
+<p class="authors">H.  Uchida, G.C. Johnson, and K.E. McTaggart</p>
+<div class="article">
+  <span class="title">Calculation  of the Thermophysical Properties of Seawater (2010)</span>
+  <span class="link">[<a href="/Manual/TEOS-10_Manual_06Jul10.pdf" target="_blank">pdf 6MB</a>]</span>
+</div>
+<p class="authors">
+  T.J.  McDougall, R. Feistel, D.G. Wright, R. Pawlowicz, F.J. Millero, <br />
+  D.R. Jackett, B.A.  King, G.M. Marion, S. Seitz, P. Spitzer, and C-T.A. Chen
+</p>
+<div class="article">
+  <span class="title">A Manual for Acquiring Lowered Doppler Current  Profiler Data</span>
+  <span class="link">[<a href="/Manual/Thurnherr_LADCP.pdf" target="_blank">pdf 2.14MB</a>]</span>
+</div>
+<p class="authors">
+  A.M. Thurnherr, M. Visbeck, E. Firing, B.A. King, J.M. Hummon, <br />
+  G. Krahmann, and B. Huber
+</p>
+
+<h1>Underway Measurements</h1>
+<div class="article">
+  <span class="title">Ship-mounted  Acoustic Doppler Current Profilers</span>
+  <span class="link">[<a href="/Manual/Firing_SADCP.pdf" target="_blank">pdf 160KB</a>]</span>
+</div>
+<p class="authors">E.  Firing and J.M. Hummon</p>
+<div class="article">
+  <span class="title">A Guide  to Making Climate Quality Meteorological and Flux Measurements at Sea  (2006)</span>
+  <span class="link">[<a href="/Manual/fluxhandbook_NOAA-TECH%20PSD-311v3.pdf" target="_blank">pdf 3.3MB</a>]</span>
+</div>
+<p class="authors">F.  Bradley and C. Fairall</p>
+<div class="article">
+  <span class="title">IHO  Standards for Hydrographic Surveys (2008)</span>
+  <span class="link">[<a href="/Manual/IHO_bathy.pdf">pdf 700KB</a>]</span>
+</div>
+<p class="authors">International  Hydrographic Organization</p>
+
+<br>
+
+      </section>
+    </td>
+  </tr>
+</table>      <script>
+    var _gaq = [['_setAccount', 'UA-2167386-12'], ['_trackPageview']];
+    (function(d, t) {
+    var g = d.createElement(t),
+        s = d.getElementsByTagName(t)[0];
+    g.async = true;
+    g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g, s);
+    })(document, 'script');
+</script>
+</body>
+</html>
